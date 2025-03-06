@@ -1,0 +1,37 @@
+.inline{
+    display: inline;
+    
+}
+#background{
+    background:url(pexels-marcus-pinho-328812-923360.jpg) center;
+    background-size:100%;
+    color:white;
+    padding-bottom: 10px;
+}
+#logo{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+}
+.images{
+    padding: 0px !important;
+    margin: 0px!important;
+}
+.reason{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+    padding-right:0px;
+    
+}
+#content{
+    background-color: black;
+    color:white;
+    padding-left: 0px!important;
+    padding-right: 0px!important;
+}
+.form{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: aquamarine;
+}
